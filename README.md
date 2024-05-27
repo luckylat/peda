@@ -39,3 +39,7 @@ PEDA - Python Exploit Development Assistance for GDB
 ![pattern arg](http://i.imgur.com/W97OWRC.png)
 
 ![patts](http://i.imgur.com/Br24IpC.png)
+
+## Additional The Fork
+- Update six to 1.16
+- Merge [The Pull Request](https://github.com/longld/peda/pull/178)
